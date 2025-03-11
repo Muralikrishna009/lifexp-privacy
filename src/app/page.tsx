@@ -73,7 +73,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-3xl font-semibold text-gray-800">3. Data Security & Retention</h2>
             <div className="mt-4 bg-blue-50 p-6 rounded-lg shadow">
               <p className="flex items-center text-lg text-gray-900"><span className="mr-2 text-2xl">🔒</span> Your data is securely stored using Firebase with industry-standard encryption.</p>
-              <p className="mt-2 flex items-center text-lg text-gray-900"><span className="mr-2 text-2xl">🗑️</span> You can request complete data deletion by contacting <a href="mailto:support@lifexp.app" className="text-blue-600 hover:text-blue-800">support@lifexp.app</a></p>
+              <p className="mt-2 flex items-center text-lg text-gray-900"><span className="mr-2 text-2xl">🗑️</span> You can request complete data deletion by contacting <a href="mailto:termux405@gmail.com" className="text-blue-600 hover:text-blue-800">termux405@gmail.com</a></p>
             </div>
           </section>
 
@@ -82,7 +82,7 @@ export default function PrivacyPolicy() {
             <div className="mt-4 bg-gray-50 p-6 rounded-lg shadow">
               <p className="flex items-center text-lg text-gray-900">
                 <span className="mr-2 text-2xl">📧</span>
-                Email: <a href="mailto:support@lifexp.app" className="ml-2 text-blue-600 hover:text-blue-800">support@lifexp.app</a>
+                Email: <a href="mailto:termux405@gmail.com" className="ml-2 text-blue-600 hover:text-blue-800">termux405@gmail.com</a>
               </p>
             </div>
           </section>
