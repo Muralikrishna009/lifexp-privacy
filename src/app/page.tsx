@@ -16,7 +16,7 @@ export default function PrivacyPolicy() {
 
         <div className="prose prose-slate max-w-none">
           <p className="text-lg leading-relaxed text-gray-900">
-            LifeXp: Habit Tracker ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application ("App").
+            LifeXp: Habit Tracker (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application (&quot;App&quot;).
           </p>
 
           <section className="mt-8">
